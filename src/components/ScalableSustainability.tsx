@@ -1,7 +1,7 @@
 import Note1Icon from '../assets/svg/note1.svg'
 import CarIcon from '../assets/svg/car.svg'
-import EarthImg from '../assets/svg/earth.png'
-import eco from '../assets/svg/ecosystem_sep2025_8000x4500 1.png'
+import EarthImg from '../assets/img/earth.png'
+import eco from '../assets/img/ecosystem_sep2025_8000x4500 1.png'
 
 const items = [
     { icon: Note1Icon, title: "Data-Driven Insights", desc: "Make informed decisions with accurate carbon tracking data." },

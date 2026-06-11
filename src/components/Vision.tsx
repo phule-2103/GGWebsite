@@ -1,4 +1,4 @@
-import SceneryImg from '../assets/svg/scenery.png'
+import SceneryImg from '../assets/img/scenery.png'
 
 export default function Vision() {
     return (
@@ -18,7 +18,7 @@ export default function Vision() {
                     </div>
 
                     <div className="bg-white p-8 md:p-12 mt-[-60px] relative z-20 max-w-4xl mx-auto rounded-3xl shadow-[0_20px_40px_-10px_rgba(0,0,0,0.05)] border border-slate-50 text-slate-500 leading-relaxed text-lg">
-                        At GO-GENIE, sustainability starts with understanding your impact. We provide accurate, transparent carbon data and actionable insights so businesses can measure emissions, benchmark performance, and make informed decisions. Turning data into measurable, real-world impact.
+                        At HQL GROUP, sustainability starts with understanding your impact. We provide accurate, transparent carbon data and actionable insights so businesses can measure emissions, benchmark performance, and make informed decisions. Turning data into measurable, real-world impact.
                     </div>
                 </div>
             </div>
