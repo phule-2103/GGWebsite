@@ -1,15 +1,15 @@
 import { ChevronRight } from './shared/ChevronRight'
-import EcosystemBg from '../assets/svg/ecosystem_horizontal.png'
+import EcosystemBg from '../assets/img/ecosystem_horizontal.png'
 
 export default function Hero() {
     return (
         <section className="relative pt-24 pb-4 bg-[linear-gradient(to_bottom,rgba(63,137,189,1.000),rgba(255,0,0,0))] overflow-hidden">
             <div className="container mx-auto px-8 relative z-20 text-center text-white">
                 <h1 className="text-5xl md:text-6xl font-bold tracking-tight mb-6 max-w-4xl mx-auto leading-[1.1]">
-                    Measure and Reduce Your Logistics Carbon Footprint
+                    IMPORT – EXPORT COMPANY   
                 </h1>
                 <p className="text-lg md:text-xl text-white/90 max-w-2xl mx-auto mb-10 font-light">
-                    Track emissions, gain real-time insights, and make smarter, more sustainable logistics decisions.
+                    Uy Tín Tạo Nền Tảng - Hợp Tác Tạo Thành Công
                 </p>
 
                 <button className="inline-flex items-center px-8 py-3 bg-white text-[#3F89BD] rounded-[10px] font-bold text-base hover:shadow-lg transition-all mb-12 group">

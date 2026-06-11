@@ -5,7 +5,7 @@ import x from '../assets/svg/logo_x.svg'
 import logo1 from '../assets/svg/logo1.svg'
 import logo2 from '../assets/svg/logo2.svg'
 import logo3 from '../assets/svg/logo3.svg'
-import logo4 from '../assets/svg/logo4.png'
+import logo4 from '../assets/img/logo4.png'
 
 const socialLinks = [
     { icon: face, name: "Facebook" },
